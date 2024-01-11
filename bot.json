@@ -1,0 +1,162 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": ["hello", "hi", "hey"],
+    "bot_response": "Hey there!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["see you", "goodbye", "bye"],
+    "bot_response": "See you later!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["nice", "to", "meet", "you"],
+    "bot_response": "The pleasure is all mine!",
+    "required_words": ["nice", "meet", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "learn", "code", "coding", "apps"],
+    "bot_response": "Start by typing: 'How to learn coding' on Google.",
+    "required_words": ["learn", "code"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["refund", "how", "can", "I", "get"],
+    "bot_response": "We don't offer refunds for free education.",
+    "required_words": ["refund", "i"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "are", "you"],
+    "bot_response": "I'm great! Thanks for asking.",
+    "required_words": ["how", "are", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "your", "name"],
+    "bot_response": "I'm a bot created to chat with you! You can call me ChatBot.",
+    "required_words": ["your", "name"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["tell", "me", "a", "joke"],
+    "bot_response": "Why don't scientists trust atoms? Because they make up everything!",
+    "required_words": ["tell", "joke"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "old", "are", "you"],
+    "bot_response": "I don't have an age. I'm just a program running on a computer.",
+    "required_words": ["how", "old", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "the", "meaning", "of", "life"],
+    "bot_response": "The meaning of life is subjective and varies from person to person. What does it mean to you?",
+    "required_words": ["meaning", "life"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["tell", "me", "about", "yourself"],
+    "bot_response": "I'm a chatbot designed to have conversations with you. Ask me anything!",
+    "required_words": ["tell", "about", "yourself"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "are", "your", "hobbies"],
+    "bot_response": "I don't have hobbies in the traditional sense, but I love helping and chatting with you!",
+    "required_words": ["hobbies"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["favorite", "movie"],
+    "bot_response": "As a bot, I don't watch movies, but I've heard 'The Matrix' is quite popular. What's your favorite movie?",
+    "required_words": ["favorite", "movie"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["who", "created", "you"],
+    "bot_response": "I was created by developers who love building cool things with technology!",
+    "required_words": ["created", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["can", "you", "sing"],
+    "bot_response": "I don't have a voice, but I can definitely share some song lyrics. What's your favorite song?",
+    "required_words": ["sing"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["do", "you", "dream"],
+    "bot_response": "No, I don't dream. I'm always here and ready to chat with you!",
+    "required_words": ["dream"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "do", "you", "stay", "productive"],
+    "bot_response": "I stay productive by processing information and helping users like you! How about you? Any productivity tips?",
+    "required_words": ["stay", "productive"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["tell", "me", "something", "interesting"],
+    "bot_response": "Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!",
+    "required_words": ["interesting"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["recommend", "a", "book"],
+    "bot_response": "I'd recommend 'The Hitchhiker's Guide to the Galaxy' by Douglas Adams. It's a classic with a good dose of humor. What genres do you enjoy?",
+    "required_words": ["recommend", "book"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["who", "invented", "the", "internet"],
+    "bot_response": "The internet was not invented by a single person. It evolved over time, but key contributors include Vinton Cerf and Bob Kahn, who developed the TCP/IP protocol.",
+    "required_words": ["invented", "internet"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["best", "programming", "language", "for", "beginners"],
+    "bot_response": "For beginners, languages like Python and JavaScript are often recommended due to their readability and versatility. What are you interested in coding?",
+    "required_words": ["best", "programming", "language"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "stay", "motivated", "while", "studying"],
+    "bot_response": "Staying motivated can be challenging. Setting small goals, taking breaks, and finding a study routine that works for you can help. What subjects are you studying?",
+    "required_words": ["stay", "motivated", "studying"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "start", "a", "blog"],
+    "bot_response": "Starting a blog involves choosing a niche, selecting a platform, and creating valuable content. Have you decided on a topic for your blog?",
+    "required_words": ["start", "blog"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["describe", "yourself"],
+    "bot_response": "I'm a chatbot designed to assist and chat with users. My main goal is to provide helpful information and engage in conversations. What else would you like to know?",
+    "required_words": ["describe", "yourself"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "does", "blockchain", "work"],
+    "bot_response": "Blockchain is a decentralized and distributed ledger technology that securely records transactions. It consists of blocks linked together using cryptography. What aspects of blockchain are you curious about?",
+    "required_words": ["how", "blockchain", "work"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "learn", "machine", "learning"],
+    "bot_response": "Learning machine learning involves understanding algorithms, practicing with datasets, and using tools like TensorFlow or scikit-learn. Have you started exploring machine learning?",
+    "required_words": ["learn", "machine", "learning"]
+  }
+  
+  
+  
+  
+]
